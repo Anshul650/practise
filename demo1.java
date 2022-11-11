@@ -1,0 +1,8 @@
+class demo
+{
+	public static void main(String[] args)
+	{
+		System.out.println("First practise prog.");
+		System.out.pritnln("Second practise prog.");
+	}
+}
